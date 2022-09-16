@@ -3,7 +3,7 @@
   "main": "src/PullRequest.js",
   "version": "1.0.0",
   "description": "Make PR on GitHub, with JSON description of changes",
-  "now": {
+  "vercel": {
     "env": [
       "GH_TOKEN",
       "HOST_NAME"
